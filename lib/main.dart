@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
 					title: const Text('Mi primera aplicación en Flutter'),
 				),
 				body: const Center(
-					child: Text('¡Hola mundo con hot reloaded!'),
+					child: Text('¡Hola mundo con hot reload :)!'),
 				),
     	)
 		);
